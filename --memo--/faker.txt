@@ -1,0 +1,4 @@
+1. migration設定(データベースのテーブル、カラムの作成)  dir:datadase > migrations
+2. modelの設定をmigrationで挿入したデータの値に変える。
+3. factoryでデータを作る  dir:datadase > factories
+4. seederで流し込む
